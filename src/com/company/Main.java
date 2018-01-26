@@ -7,6 +7,9 @@ public class Main {
 
         BubbleSorting myBubble = new BubbleSorting();
 
-        myBubble.showTheArray();
+        //myBubble.showTheArray();
+
+        NamesIntoStringArray myNames = new NamesIntoStringArray();
+        myNames.stringToArray();
     }
 }

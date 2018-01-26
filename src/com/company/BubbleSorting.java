@@ -13,6 +13,8 @@ public class BubbleSorting {
         int helpNoFirst = 0;
         int helpNoSecond = 0;
 
+
+        System.out.println("This is your array after bubble sorting algorithm: ");
         for (int j = 0; j < n; j++) {
             for (int i = 1; i < n; i++) {
 
